@@ -1,0 +1,2 @@
+# Web-Magnetism
+ "Web Magnetism is a dynamic front-end web application built using React, focused on creating a captivating and responsive user experience. Leveraging React’s powerful component-based architecture, Web Magnetism features a sleek UI, smooth transitions, and interactive elements designed to engage users. Ideal for showcasing modern front-end development techniques, it’s optimized for speed and accessibility."
